@@ -5,4 +5,4 @@ The purpose of this project is to reinforce my fundamentals of linear algebra, e
 
 See Workbook.ipynb to view work originally created in Jupyter Notebook
 
-NOTE: Github frequently fails to load the file the first time, so try a reload if it doesn't work
+NOTE: Github frequently fails to load the file the first time, so try a reload if it doesn't work first try.
